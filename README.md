@@ -11,8 +11,6 @@ The primary objective of this project is to develop a classification model capab
 ## Machine Learning Modelling Framework
 
 ### 6 Step Machine Learning Modelling Framework
-
-| <img src="images/ml101-6-step-ml-framework.png" width=500/> | 
 |:--:| 
 | 6 Step Machine Learning Modelling Framework ([read more](https://whimsical.com/9g65jgoRYTxMXxDosndYTB)) |
 
@@ -45,8 +43,6 @@ The primary objective of this project is to develop a classification model capab
 ## Tools and Technologies Used
 
 We'll employ various tools for each step of the machine learning modeling process, including pandas, Matplotlib, and NumPy for data analysis. Additionally, Scikit-Learn will be used for machine learning and modeling tasks.
-
-| <img src="images/supervised-projects-6-step-ml-framework-tools-highlight.png" width=500/> | 
 |:--:| 
 | Tools which can be used for each step of the machine learning modeling process. |
 
